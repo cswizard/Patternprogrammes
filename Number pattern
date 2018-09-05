@@ -1,0 +1,21 @@
+int i,j,num;
+    for(i=n;i>=1;i--)
+    {
+        num=n;
+        while(num>0)
+        {
+            for(j=1;j<=i;j++)
+            {
+                printf("%d ",num);
+            }
+            num--;
+        }
+        printf("$");
+    }
+    
+    
+    //OUTPUT
+    FOR n=3         FOR n=2
+    333222111       2211
+    332211          21
+    321
