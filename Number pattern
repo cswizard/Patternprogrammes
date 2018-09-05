@@ -1,5 +1,7 @@
+void printPat(int n)
+{
 int i,j,num;
-    for(i=n;i>=1;i--)
+    for(i=n;i>=1;i--)                    //Only Function part is provided here. Kindly include necessary library files.
     {
         num=n;
         while(num>0)
@@ -12,7 +14,7 @@ int i,j,num;
         }
         printf("$");
     }
-    
+}
     
     //OUTPUT
     FOR n=3         FOR n=2
