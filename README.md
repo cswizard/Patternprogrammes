@@ -1,1 +1,1 @@
-# Patternprogrammes
+This series walks through various programming problems dealing with pattern designing.These type of problems are very frequently asked in placement tests of various companies and hence are  must do for any one aspiring to be placed in it industry.These are also very useful for a beginner in programming to polish the skill of logic building.
